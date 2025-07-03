@@ -1,4 +1,7 @@
 # projeto-site!!
 
 `Projeto de um site criado durante o curso de Git e GitHub`
-Tá faltando termina
+
+__*Tá faltando termina*__
+
+__Futuramente__
